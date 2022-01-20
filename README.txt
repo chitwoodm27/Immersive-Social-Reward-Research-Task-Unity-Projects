@@ -7,7 +7,7 @@ Materials and Methods:
 	- PC, Mac & Linux Standalone Platform (Build Platform for each Unity project)
 		**The Platform can be switched in the Build Settings of Unity, for example, to Android or to iOS
 	- Head-mounted display (HMD)
-		** Although we used the HTC Vive to test these projects, they can be displayed on any device whether it be an HMD, computer, phone, tablet, etc. 
+		**Although we used the HTC Vive to test these projects, they can be displayed on any device whether it be an HMD, computer, phone, tablet, etc. 
 	
 
 
