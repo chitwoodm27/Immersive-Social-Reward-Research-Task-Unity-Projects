@@ -1,5 +1,5 @@
 Materials and Methods:
-	- Unity Engine (2019.4.16f1)
+	- Unity Engine
 	- Unity Hub
 		**Link to download Unity & Unity Hub: https://unity3d.com/get-unity/download
 	- SMI Eye Tracking (Software used to record eye data) 
