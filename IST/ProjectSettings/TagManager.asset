@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trials
+  - Trial
+  - Trial1
+  - Trial2
+  - Trial0
+  - Trial 1
+  - Trial 2
+  - Trial 3
+  - Trial 4
+  - Trial 5
+  - Trial 6
+  - Trial 7
+  - Trial 8
+  - Trial 9
+  - Trial 10
+  - Trial 11
+  - Trial 12
+  - Trial 13
+  - Trial 14
+  - Trial 15
+  - Trial 16
+  - Trial 17
+  - Trial 18
+  - Trial 19
+  - Trial 20
+  - Trial 21
+  - Trial 22
+  - Trial 23
+  - Trial 24
+  - LeftBio
+  - RightBio
+  - Trial Controller
+  - Controller
+  - Left
+  - Right
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
