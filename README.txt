@@ -20,7 +20,7 @@ Three Shared Unity Project Files:
 
 
 HOW TO: Open Project in Unity
-	1. First, make sure you have installed both Unity (version: 2019.4.16f1) and the latest version of Unity Hub
+	1. First, make sure you have installed Unity (version: 2019.4.16f1) and the latest version of Unity Hub
 	2. Download project onto computer from GitHub
 	3. Open Unity Hub and click the dropdown "Open". Click "Add project from disk". 
 	4. Locate and Add Project. This will add the project to the Projects List in Unity Hub.
