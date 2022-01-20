@@ -1,5 +1,5 @@
 Materials and Methods:
-	- Unity Engine	
+	- Unity Engine (2019.4.16f1)
 	- Unity Hub
 		**Link to download Unity & Unity Hub: https://unity3d.com/get-unity/download
 	- SMI Eye Tracking (Software used to record eye data) 
@@ -19,8 +19,10 @@ Three Shared Unity Project Files:
 
 
 
-**HOW TO: Download and Access the projects in Unity
-	1. Choose the folder “IST” in UnityProjects and click “Select Folder”. This will add the project to the Projects List in Unity Hub.
-	2. Do this for all three project tasks (IST, NIST, NISTavatar)
-	3. Double click the project to open it in Unity
+HOW TO: Open Project in Unity
+	1. First, make sure you have installed both Unity (version: 2019.4.16f1) and the latest version of Unity Hub
+	2. Download project onto computer from GitHub
+	3. Open Unity Hub and click the dropdown "Open". Click "Add project from disk". 
+	4. Locate and Add Project. This will add the project to the Projects List in Unity Hub.
+	5. Double click the project in the Projects List to open it in Unity
 
