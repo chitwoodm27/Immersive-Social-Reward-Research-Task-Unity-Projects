@@ -6,7 +6,7 @@ using UnityEngine.Timeline;
 using System.IO;
 using System.Text;
 
-public class TimelineControllerRight : MonoBehaviour
+public class TimelineControllerLeft : MonoBehaviour
 {
 
     public PlayableDirector playableDirector;
